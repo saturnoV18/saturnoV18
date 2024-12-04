@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif
 -->
-
-
 <h1 align="center">Hi, I'm saturnoV18</h1>
 <img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNrZ3N4Z2hmYW1pZjQ5Nnp6bHloMWI2dzZqaWJ6ZjZpa3Ntc3h0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/200.webp" />
 
@@ -29,12 +27,13 @@ I am an undergraduate Web Application Development student. GDScript, Python, Jav
   - C
   - GDScript
 - 👯 I’m looking forward to collaborate on open source projects.
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 👾 I love to play videogames, 🎵 listen to music, and 📖 read manga.
 <!--
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 -->
 <h2>My Skills Include</h2>
+<h4>Languages</h4>
 <span>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -44,3 +43,16 @@ I am an undergraduate Web Application Development student. GDScript, Python, Jav
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </span>
+<h4>Other Tools and Technologies</h4>
+<span>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+</span>
+
+<h2>Github stats:</h2>
+<div align="center">
+  
+[![](https://github-readme-stats.vercel.app/api?username=saturnoV18&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/saturnoV18)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=saturnoV18&theme=material-palenight)](https://github.com/saturnoV18)
+</div>
