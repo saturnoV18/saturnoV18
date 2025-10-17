@@ -23,9 +23,9 @@ https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif
 I am an undergraduate Web Application Development student. GDScript, Python, Javascript, HTML, and CSS are the programming languages I am good at. I love to learn and create new projects.
 * **I am interested in Web designing and videogames development**
 - 🌱 I’m currently learning ...
-  - Java
+  - PHP
   - C
-  - GDScript
+  - JavaScript
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 👾 I love to play videogames, 🎵 listen to music, and 📖 read manga.
 <!--
